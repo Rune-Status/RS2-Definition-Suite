@@ -1,0 +1,14 @@
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\bin\Debug\RS2 Definition Suite.exe.config
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\bin\Debug\RS2 Definition Suite.exe
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\bin\Debug\RS2 Definition Suite.pdb
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\bin\Debug\CEBL.dll
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\bin\Debug\CEBL.pdb
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2_Definition_Suite.Credits.resources
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2_Definition_Suite.MainApp.resources
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2_Definition_Suite.Properties.Resources.resources
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2_Definition_Suite.VariableParamaterToolShed.resources
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2 Definition Suite.csproj.GenerateResource.Cache
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2 Definition Suite.exe
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2 Definition Suite.pdb
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2 Definition Suite.csprojResolveAssemblyReference.cache
+c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Debug\RS2_Definition_Suite.VariableBitToolShed.resources

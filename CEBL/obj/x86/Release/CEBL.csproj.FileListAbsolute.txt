@@ -1,0 +1,4 @@
+C:\Users\Jonahs-PC\Documents\Lins Interface EditorEmulator\CEBL\bin\Release\CEBL.dll
+C:\Users\Jonahs-PC\Documents\Lins Interface EditorEmulator\CEBL\bin\Release\CEBL.pdb
+C:\Users\Jonahs-PC\Documents\Lins Interface EditorEmulator\CEBL\obj\x86\Release\CEBL.dll
+C:\Users\Jonahs-PC\Documents\Lins Interface EditorEmulator\CEBL\obj\x86\Release\CEBL.pdb

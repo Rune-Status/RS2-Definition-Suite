@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>a80ba3b8-506d-4ce9-a437-00762b37f5a1</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>CEBL</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="CEBL\OnDemandFetcher.cs" />
+    <Compile Include="CEBL\Decompressor.cs" />
+    <Compile Include="CEBL\Main.cs" />
+    <Compile Include="CEBL\Class13.cs" />
+    <Compile Include="CEBL\Node.cs" />
+    <Compile Include="CEBL\NodeSub.cs" />
+    <Compile Include="CEBL\OnDemandData.cs" />
+    <Compile Include="CEBL\NodeList.cs" />
+    <Compile Include="CEBL\Class32.cs" />
+    <Compile Include="CEBL\Class21.cs" />
+    <Compile Include="CEBL\CacheUnpacker.cs" />
+    <Compile Include="CEBL\CacheStore.cs" />
+    <Compile Include="CEBL\NodeSubList.cs" />
+    <Compile Include="CEBL\PlainSprite.cs" />
+    <Compile Include="CEBL\ArrayMethods.cs" />
+    <Compile Include="CEBL\StreamLoader.cs" />
+    <Compile Include="CEBL\Stream.cs" />
+  </ItemGroup>
+</Project>
