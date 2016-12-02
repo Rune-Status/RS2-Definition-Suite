@@ -10,3 +10,16 @@ c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definitio
 c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Release\RS2 Definition Suite.csproj.GenerateResource.Cache
 c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Release\RS2 Definition Suite.exe
 c:\Users\Jonahs-PC\Documents\Visual Studio 2015\Projects\RS2DSuite\RS2 Definition Suite\obj\Release\RS2 Definition Suite.pdb
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\bin\Release\RS2 Definition Suite.exe.config
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\bin\Release\RS2 Definition Suite.exe
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\bin\Release\RS2 Definition Suite.pdb
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\bin\Release\CEBL.dll
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\bin\Release\CEBL.pdb
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2_Definition_Suite.Credits.resources
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2_Definition_Suite.MainApp.resources
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2_Definition_Suite.Properties.Resources.resources
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2_Definition_Suite.VariableBitToolShed.resources
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2_Definition_Suite.VariableParamaterToolShed.resources
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2 Definition Suite.csproj.GenerateResource.Cache
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2 Definition Suite.exe
+C:\Users\Jonahs-PC\Source\Repos\RS2-Definition-Suite\RS2DSuite\RS2 Definition Suite\obj\Release\RS2 Definition Suite.pdb

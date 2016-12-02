@@ -389,10 +389,12 @@ namespace RS2_Definition_Suite.RS319
             membersObject = itemDef_1.membersObject;
             value = itemDef_1.value;
             String s = "a";
-            char c = itemDef_1.name[0];
-            if (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U')
-            {
-                s = "an";
+            if (itemDef_1 != null && itemDef_1.name != null) {
+                char c = itemDef_1.name[0];
+                if (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U')
+                {
+                    s = "an";
+                }
             }
             description = Encoding.ASCII.GetBytes(("Swap this note at any bank for " + s + " " + itemDef_1.name + "."));
             stackable = true;

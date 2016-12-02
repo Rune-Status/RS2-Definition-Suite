@@ -370,6 +370,8 @@
 
         public void writeString(string s)
         {
+            if (s == null)
+                return;
             byte[] bytes = Encoding.ASCII.GetBytes(s);
 			int written = 0;
             for (int i = 0; i < bytes.Length; i++)

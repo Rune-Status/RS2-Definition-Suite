@@ -129,8 +129,8 @@ namespace RS2_Definition_Suite
             this.interfaceStream = new CEBL.Stream(interfaceStreamLoader.getDataForName("data"));
             VariableParameter.init(configStreamLoader);
             VariableBit.init(configStreamLoader);
-            ItemDefinition.init(configStreamLoader);
-            ItemDefinition.pack("./");
+            //ItemDefinition.init(configStreamLoader);
+            //ItemDefinition.pack("./");
             //RSInterface.globalTDAs = this.aclass30_sub2_sub1_sub4s;
             //RSInterface.unpack(this.interfaceStream, spriteStream, this);
             treeView1.Enabled = cacheLoaded = true;
